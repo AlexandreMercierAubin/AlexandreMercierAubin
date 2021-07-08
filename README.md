@@ -2,7 +2,7 @@
 
 ## Hi, I'm Alexandre Mercier-Aubin 👋
 <a href="https://www.alexandremercieraubin.com">
-  <img align="left" alt="My Website" width="20px" src=src="https://image.flaticon.com/icons/png/512/2807/2807258.svg" />
+  <img align="left" alt="My Website" width="20px" src=src="https://image.flaticon.com/icons/svg/2807/2807230.png" />
 </a>
 <a href="https://twitter.com/AlexMercierA">
   <img align="left" alt="AlexMercierA | Twitter" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
