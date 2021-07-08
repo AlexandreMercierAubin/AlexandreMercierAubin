@@ -1,10 +1,10 @@
 ## Hi, I'm Alexandre Mercier-Aubin 👋
 <a href="https://www.alexandremercieraubin.com">
-  <img align="left" alt="My Website" width="20px" src="https://img.icons8.com/ios/150/000000/internet--v2.png"/>
+  <img align="left" alt="My Website" width="40px" src="https://img.icons8.com/ios/150/000000/internet--v2.png"/>
 </a>
 
 <a href="https://twitter.com/AlexMercierA">
-  <img align="left" alt="AlexMercierA | Twitter" width="20px" src="https://img.icons8.com/color/144/000000/twitter--v2.png"/>
+  <img align="left" alt="AlexMercierA | Twitter" width="40px" src="https://img.icons8.com/color/144/000000/twitter--v2.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/alexandremercieraubin/">
