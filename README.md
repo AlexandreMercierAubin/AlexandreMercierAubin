@@ -8,18 +8,17 @@
 </a>
 
 <a href="https://www.linkedin.com/in/alexandremercieraubin/">
-  <img align="left" alt="Alexandre Mercier-Aubin" width="20px" src="https://img.icons8.com/color/144/000000/linkedin-2--v2.png"  />
+  <img align="left" alt="Alexandre Mercier-Aubin" width="40px" src="https://img.icons8.com/color/144/000000/linkedin-2--v2.png"  />
 </a>
 
 <a href="https://www.instagram.com/alexandremercieraubin/">
-  <img align="left" alt="Alexandre Mercier-Aubin" width="20px" src="https://img.icons8.com/color/144/000000/instagram-new--v2.png"  />
+  <img align="left" alt="Alexandre Mercier-Aubin" width="40px" src="https://img.icons8.com/color/144/000000/instagram-new--v2.png"  />
 </a>
 
 <a href="https://scholar.google.com/citations?user=N3Yv5IcAAAAJ&hl=en">
-  <img align="left" alt="Alexandre Mercier-Aubin" width="20px" src="https://img.icons8.com/color/144/000000/google-scholar--v3.png"  />
+  <img align="left" alt="Alexandre Mercier-Aubin" width="40px" src="https://img.icons8.com/color/144/000000/google-scholar--v3.png"  />
 </a>
 
-<br/>
 <br/>
 
 ---
