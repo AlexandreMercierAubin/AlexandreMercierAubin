@@ -11,10 +11,6 @@
   <img align="left" alt="Alexandre Mercier-Aubin" width="40px" src="https://raw.githubusercontent.com/AlexandreMercierAubin/AlexandreMercierAubin/main/gifs/linkedin.gif"  />
 </a>
 
-<a href="https://www.instagram.com/alexandremercieraubin/">
-  <img align="left" alt="Alexandre Mercier-Aubin" width="40px" src="https://raw.githubusercontent.com/AlexandreMercierAubin/AlexandreMercierAubin/main/gifs/instagram.gif"  />
-</a>
-
 <a href="https://scholar.google.com/citations?user=N3Yv5IcAAAAJ&hl=en">
   <img align="left" alt="Alexandre Mercier-Aubin" width="40px" src="https://raw.githubusercontent.com/AlexandreMercierAubin/AlexandreMercierAubin/main/gifs/google-scholar.png"  />
 </a>
