@@ -15,6 +15,10 @@
   <img align="left" alt="Alexandre Mercier-Aubin" width="40px" src="https://raw.githubusercontent.com/AlexandreMercierAubin/AlexandreMercierAubin/main/images/google-scholar.png"  />
 </a>
 
+<a href="https://www.youtube.com/@AlexandreMercierAubin/featured">
+  <img align="left" alt="Alexandre Mercier-Aubin" width="40px" src="https://raw.githubusercontent.com/AlexandreMercierAubin/AlexandreMercierAubin/main/images/youtube.png"  />
+</a>
+
 <br/>
 
 ---
