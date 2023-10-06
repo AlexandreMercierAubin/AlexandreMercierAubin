@@ -22,11 +22,10 @@
 <br/>
 
 ---
-Go To my website for more info 🤔
 
 ### About
-📖 Working on my PhD
+📖 Working on my PhD.
 
-🎓 Got my MSc at the Université Laval 
+🔭 I’m currently working on simulation of squishy stuff 😄!
 
-🔭 I’m currently working on simulation of squishy stuff 😄
+🎓 See my website for more info.
