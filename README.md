@@ -20,7 +20,7 @@
 ---
 Go To my website for more info 🤔
 
-### 🧐 About
+### About
 📖 Working on my PhD
 
 🎓 Got my MSc at the Université Laval 
