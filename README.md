@@ -24,8 +24,8 @@
 ---
 
 ### About
-📖 Working on my PhD.
+📖 Finishing my PhD.
 
-🔭 I’m currently working on simulation of squishy stuff 😄!
+🔭 Research in computer graphics 😄!
 
 🎓 See my website for more info.
