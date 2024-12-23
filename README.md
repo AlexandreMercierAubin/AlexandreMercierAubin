@@ -24,8 +24,6 @@
 ---
 
 ### About
-📖 Finishing my PhD.
-
 🔭 Research in computer graphics 😄!
 
 🎓 See my website for more info.
